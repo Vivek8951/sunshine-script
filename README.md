@@ -39,7 +39,7 @@ su - myuser
 1. Clone or download this script into your server:
 
     ```bash
-    bash <(curl -sL https://raw.githubusercontent.com/CodeDialect/sunshine/main/sunshine_setup.sh)
+    bash <(curl -sL https://raw.githubusercontent.com/CodeDialect/sunshine-script/main/sunshine_setup.sh)
     ```
 
 2. After installation, the script will display a **Cloudflare Tunnel URL**:
